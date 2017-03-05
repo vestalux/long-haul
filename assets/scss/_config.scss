@@ -23,13 +23,14 @@ $white:  #fff;
 $silver: #ddd;
 $grey:   #aaa;
 $black:  #111;
+$greyish: #1d1d1d<
 
 // Color variables
-$primary-color: seagreen;
+$primary-color: greyish;
 $secondary-color: #233E5B;
 $tertiary-color: #aaa;
 $link-color: $primary-color;
-$background-color: seagreen;
+$background-color: greyish;
 
 $bad-color: $red; // Bad color for errors, validation etc.
 $good-color: $green; // Good color for success etc.
