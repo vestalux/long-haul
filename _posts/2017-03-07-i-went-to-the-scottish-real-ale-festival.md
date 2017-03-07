@@ -1,7 +1,7 @@
 ---
 title: I went to the Scottish Real Ale Festival
 layout: post
-date: '2017-03-07T19:44:44+00:00'
+date: '2014-07-24T19:44:44+00:00'
 image: 20140710-12300001.jpg
 ---
 This actually happened a good two weeks ago, when I was visiting my good old friend Norbi. He’ not only the author of the major [Hungarian Whisky Blog](https://scotchwhiskyblog.wordpress.com/)This actually happened a good two weeks ago, when I was visiting my good old friend Norbi. He’ not only the author of the major Hungarian Whisky Blog but also one of the most knowledgeable bartenders in Edinburgh.  So obviously we went out to drink something.
