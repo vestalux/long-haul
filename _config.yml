@@ -1,8 +1,8 @@
 title: HopBot
 description: Decoding the beers of the Old Continent
 
-url: https://vestalux.github.io
-baseurl: "/hopbot"
+url: http://hopbot.eu
+baseurl: "/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
