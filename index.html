@@ -11,7 +11,7 @@ title: HopBot
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <p class="description">{% if post.intro %}{{ post.intro | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
-      {% if post.image %}<img src="{{ '/uploads/' | prepend: site.baseurl | append: page.image }}" alt=""> {% endif %}
+      {% if post.image %}<img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""> {% endif %}
     </li>
     {% endfor %}
   </ul>
