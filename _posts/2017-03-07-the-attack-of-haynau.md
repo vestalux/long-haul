@@ -1,7 +1,7 @@
 ---
 title: The attack of Haynau
 layout: post
-date: '2017-03-07T20:31:46+00:00'
+date: '2014-05-01T21:31:00+02:00'
 image: "/g3065.png"
 ---
 The Spring of Nations took Europe by storm. People for various reasons from different background thought it was time to act. From Paris to Debrecen people fought for what they thought was right against their opressor, military officials like Julius Jacob von Haynau.
