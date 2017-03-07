@@ -9,7 +9,8 @@ layout: default
   {% endif %}
   <h1 class="postTitle">{{ page.title }}</h1>
   <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
-  <p class="intro"><span class="dropcap">{{ page.intro | slice: 0 }}</span> {{ page.intro  | remove_first:'page.intro | slice: 0' }}</p>
+  <p class="intro"><span class="dropcap">{{ page.intro | slice: 0 }}</span> {{ page.intro  | remove_first: page.intro | slice: 0 }}</p>
+   {{ size | page.intro }}
   {{ content }}
 
   <!-- POST NAVIGATION -->
