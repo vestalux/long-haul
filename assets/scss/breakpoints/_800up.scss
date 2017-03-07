@@ -54,6 +54,9 @@ HEADER STYLING
 ***************/
 
 .header {
+	background-image: url('../img/bg.jpg');
+	background-size: cover;
+	background-position: center center;
 	height: 15em;
 	position: relative;
 	padding-bottom: 2em;
@@ -86,6 +89,8 @@ HEADER STYLING
 				background: none;
 				padding: 0 5px;
 				border: none;
+				font-weight:bold;
+				text-transform:uppercase;
 
 				a {
 					color: white;
@@ -94,7 +99,7 @@ HEADER STYLING
 					padding: 0 .25em;
 
 					&:hover {
-						color: darken(white, 20%);
+						color: darken(white, 85%);
 					}
 				}
 
