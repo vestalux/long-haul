@@ -2,7 +2,7 @@
 title: Sandra Black IPA
 layout: post
 date: '2014-06-11T00:00:00+02:00'
-image: "/uploads/20140424-IMG_0036.jpg"
+image: "/20140424-IMG_0036-1.jpg"
 ---
 I try not to read the labels before writing a review, so I’m no way influenced by the marketing team. Didn’t really work this time I had a glimpse of the label and now I’m unsure whether I can really taste gooseberries or I’m just imagining it.  
 
