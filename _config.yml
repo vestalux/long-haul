@@ -2,7 +2,7 @@ title: HopBot
 description: Decoding the beers of the Old Continent
 
 url: https://vestalux.github.io
-baseurl: "/long-haul"
+baseurl: "/hopbot"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -20,9 +20,8 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   twitter: hopbot
+   facebook: hopbot
+   email: hi@hopbot.eu
 
 google_analytics: "UA-58263416-1"
