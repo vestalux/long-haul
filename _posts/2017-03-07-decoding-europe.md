@@ -2,6 +2,7 @@
 title: Decoding Europe
 layout: post
 date: '2017-03-07T20:51:52+00:00'
+intro: SOme breweries are expanding to the US while some others to Europe but there's very little knowledge about what really goes on in Europe.
 ---
 Times have changed and so have I. It has been a couple of years since I abandoned beer blogging in the pursuit of a carreer. However I never stopped drinking beer and my professional path opened up new doors for me that I might be able to open further ajar and document it in the process.
 
