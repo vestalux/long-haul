@@ -12,7 +12,7 @@ paginate: 5
 
 navigation:
  - title: Home
-   url: /index.html
+   url: /
  - title: About
    url: /about
  - title: Contact
@@ -24,3 +24,7 @@ social:
    email: hi@hopbot.eu
 
 google_analytics: "UA-42669057-1"
+
+collections:
+  podcasts:
+    output: true
