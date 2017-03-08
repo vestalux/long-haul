@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Cookies
+title: Podcast
 ---
-{% for cookie in site.podcasts %}
+{% for podcast in site.podcasts %}
   <div class="podcast">
-    <h2><img src="{{ podcast.image_path }}" alt="{{ podcast.title }}">{{ podcast.title }}</a></h2>
+    <h2>{{ podcast.title }}</h2>
     {{ podcast.content }}
   </div>
 {% endfor %}
