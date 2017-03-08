@@ -4,9 +4,9 @@ title: Contact HopBot
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
+  <h1 class="pageTitle">Message in the bottle</h1>
   <div class="contactContent">
-    <p class="intro">HopBot is always on the lookout for interesting beer people. <code>contact.html</code> file.</p>
+    <p class="intro">HopBot is always on the lookout for interesting beer people.</p>
     <p>Drop us a message if you run a brewery work in the craft beer industry or if you know which bottleshop sells that barrel aged stout we tasted on a festival but forgot to take note of the brewer.</p>
     <p>Or just say hi!</p>
   </div>
