@@ -28,3 +28,4 @@ google_analytics: "UA-42669057-1"
 collections:
   podcasts:
     output: true
+    permalink: podcast/:title/
