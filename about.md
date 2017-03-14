@@ -14,7 +14,7 @@ The blog started as a personal beer journal back in 2012 when I was living in Ca
 
 I have spent most of my professional life working in consumer and professional electronics industry in sales and marketing. After several detours I found myself back in Budapest, Hungary where a lot of interesting things are happening in the craft beer world. Sadly not much of it is covered in the global beer blogshpere and this also applies to neighbouring countries.
 
-**Mission Statement**
+## Mission Statement
 
 The goal of the blog is to spread the culture surrounding beer and let the reader see what's boiling in the kettle of the industry. Ultimately beer is about people. People that take risks creating new beers in the hope that punters will enjoy every last drop of thse brews. Some other people serve it, move it or write about it. I aim to bring their stories to you.
 
