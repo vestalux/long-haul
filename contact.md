@@ -10,7 +10,7 @@ title: Contact HopBot
     <p>Drop us a message if you run a brewery work in the craft beer industry or if you know which bottleshop sells that barrel aged stout we tasted on a festival but forgot to take note of the brewer.</p>
     <p>Or just say hi!</p>
   </div>
-  <form action="http://formspree.io/leki69@gmail.com" method="POST">
+  <form action="http://formspree.io/hi@hopbot.eu" method="POST">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
