@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: HopBot - Read.Drink.Travel.
 ---
 <style>
 @media only screen and (min-width: 800px) {
@@ -16,7 +16,7 @@ li.teaser:before{background:none;}
   </style>
 
 <div id="articles">
-  <h1 class="pageTitle">Recent Stories</h1>
+  <h1 class="pageTitle">Read.Drink.Travel.</h1>
   <ul class="posts noList">
     {% for post in site.posts limit:1 %}
       <li>
