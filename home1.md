@@ -16,12 +16,13 @@ title: Your New Jekyll Site
 }</style>
 
 <div id="articles">
-  <h1>Articles</h1>
+  <h1>Recent Stories</h1>
   <ul class="posts noList">
     {% for post in site.posts limit:1 %}
       <li>
       	<span class="date">{{ post.date | date_to_string }}</span>
       	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+	 {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
       	<p class="description">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
       </li>
     {% endfor %}
@@ -33,9 +34,8 @@ title: Your New Jekyll Site
       <div class="cupcake">
 
       <li>
-      	<span class="date">{{ post.date | date_to_string }}</span>
+	 {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
       	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      	<p class="description">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
       </li>
         </div>
 
