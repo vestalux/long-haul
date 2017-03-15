@@ -42,11 +42,11 @@ li.teaser:before{background:none;}
  <blockquote>
 <h3>Good times are made of great moments</h3>
  </blockquote>
- 
+ </div>
  <p>
  {% for post in site.framerates limit:1 %}
      
     {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt="" class="featuredImage"></a> {% endif %}
  {% endfor %}
-</p></div>
+</p>
   </div>
