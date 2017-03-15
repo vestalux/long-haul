@@ -3,21 +3,14 @@ layout: default
 title: Your New Jekyll Site
 ---
 <style>
- .teaser {
-    float: none;
-    position: static;
-    width: auto;}
-
-
-@media only screen and min-width 800px{
-.teaser {
+@media only screen and (min-width: 800px) {
+   .teaser {
 	float: left;
 	width: 33%;
 	box-sizing: border-box;
 	padding: 0 30px;}
 
-.tesaer:before{background:none;}
- 
+.teaser:before{background:none;}
 }
   
   </style>
