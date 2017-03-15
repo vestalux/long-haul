@@ -15,7 +15,6 @@ title: Your New Jekyll Site
 	height: 450px;
 }
 
-.teaser li:before {background:none;}
 
 @media only screen and (max-device-width : 800px) {
   .teaser {
