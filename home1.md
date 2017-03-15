@@ -9,7 +9,7 @@ title: Your New Jekyll Site
     width: auto;
 
 
-@media only screen and min-device-width : 800px) {
+@media only screen and min-width 800px) {
 .teaser {
 	float: left;
 	width: 33%;
