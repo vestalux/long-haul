@@ -41,13 +41,10 @@ li.teaser:before{background:none;}
   </div>
 <h1 class="pageTitle">New Frames</h1>
 
- 
- 
-    {% for post in site.framerates limit:1 %}
+ <p>
+ {% for post in site.framerates limit:1 %}
      
     {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
-    	
-	
-     {% endfor %}
-    
+ {% endfor %}
+</p>
 
