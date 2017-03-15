@@ -17,7 +17,7 @@ li.teaser:before{background:none;}
 <div id="articles">
  <h1 class="pageTitle">Framerate</h1>
  
- > Framrate captures the moments that wouldn't be enough for a story but without them we wouldn't see the big picture
+ <blockquote>Framrate captures the moments that wouldn't be enough for a story but without them we wouldn't see the big picture</blockquote>
  
  <ul class="posts noList">
  
