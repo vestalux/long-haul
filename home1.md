@@ -9,14 +9,13 @@ title: Your New Jekyll Site
 	box-sizing: border-box;
 	padding: 0 30px;}
 
-li.tesaer:before{background:none;}
+.tesaer:before{background:none;}
 
 @media only screen and (max-device-width : 800px) {
   .teaser {
     float: none;
     position: static;
     width: auto;
-    height: auto;
   }
   
   </style>
