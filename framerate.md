@@ -2,18 +2,30 @@
 layout: default
 title: Framerate
 ---
+<style>
+@media only screen and (min-width: 800px) {
+   .teaser {
+	float: left;
+	width: 33%;
+	box-sizing: border-box;
+	padding: 0 0px;}
 
+li.teaser:before{background:none;}
+}
+  
+  </style>
 <div id="articles">
-{% for framerate in site.framerates %}
-  <ul class="posts noList">
-   <li>
-   <h3><a href="{{ framerate.url }}">{{ framerate.title }}</a></h3>
-   {{ framerate.content | strip_html | strip_newlines | truncate: 120 }}
-     </li>
-  </ul>
-{% endfor %}
+ <ul class="posts noList">
+ 
+    {% for post in site.framerates %}
+      <li class="teaser">
+    {% if post.image %}<a class="post-link" href="{{ framerate.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: framerate.image }}" alt=""></a> {% endif %}
+	   </li>
+     {% endfor %}
+    </ul>
 
 </div>
 
 
-
+  
+ 
