@@ -4,7 +4,7 @@ title: Framerate
 ---
 
 <div id="articles">
-{% for podcast in site.framerate %}
+{% for framerate in site.framerates %}
   <ul class="posts noList">
    <li>
    <h3><a href="{{ framerate.url }}">{{ framerate.title }}</a></h3>
