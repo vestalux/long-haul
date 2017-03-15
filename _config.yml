@@ -9,6 +9,7 @@ markdown: kramdown
 highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
+paginate_path: "stories/page:num"
 
 navigation:
  - title: Home
