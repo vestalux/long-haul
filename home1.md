@@ -3,20 +3,30 @@ layout: default
 title: Your New Jekyll Site
 ---
 <style>
-.cupcakes {
+.teasers {
 	margin: 40px 0 0 0;
 }
 
-.cupcake {
+.teaser {
 	float: left;
 	width: 33%;
 	box-sizing: border-box;
 	padding: 0 30px;
 	height: 450px;
-}</style>
+}
+
+@media only screen and (max-device-width : 500px) {
+  .side {
+    float: none;
+    position: static;
+    width: auto;
+    height: auto;
+  }
+  
+  </style>
 
 <div id="articles">
-  <h1>Recent Stories</h1>
+  <h1 class="pageTitle">Recent Stories</h1>
   <ul class="posts noList">
     {% for post in site.posts limit:1 %}
       <li>
@@ -26,21 +36,21 @@ title: Your New Jekyll Site
       	<p class="description">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
       </li>
     {% endfor %}
-  </ul>
-  <div class="cupcakes">
+    </ul>
+  <div class="teasers">
 
-    <ul class="posts noList">
+    
     {% for post in site.posts limit:3 offset:1 %}
-      <div class="cupcake">
+      <div class="teaser">
 
-      <li>
+      
 	 {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
       	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      </li>
+      
         </div>
 
     {% endfor %}
-  </ul>
+ 
   </div>
 
 </div>
