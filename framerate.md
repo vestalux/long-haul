@@ -8,7 +8,7 @@ title: Framerate
 	float: left;
 	width: 33%;
 	box-sizing: border-box;
-	padding: 0 0px;}
+	padding: 0 5px;}
 
 li.teaser:before{background:none;}
 }
@@ -20,6 +20,7 @@ li.teaser:before{background:none;}
     {% for post in site.framerates %}
       <li class="teaser">
     {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
+    	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 	   </li>
      {% endfor %}
     </ul>
