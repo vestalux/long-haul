@@ -10,7 +10,7 @@ title: Your New Jekyll Site
 	box-sizing: border-box;
 	padding: 0 5px;}
 
-.teaser:before{background:none;}
+li.teaser:before{background:none;}
 }
   
   </style>
