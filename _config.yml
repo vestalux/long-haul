@@ -31,6 +31,6 @@ collections:
   podcasts:
     output: true
     permalink: podcast/:title/
-  framerate:
+  framerates:
     output: true
     permalink: framerate/:title/
