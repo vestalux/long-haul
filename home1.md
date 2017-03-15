@@ -39,20 +39,20 @@ title: Your New Jekyll Site
       </li>
     {% endfor %}
     </ul>
+    
   <div class="teasers">
   <ul class="posts noList">
-
-    
+ 
     {% for post in site.posts limit:3 offset:1 %}
-      <div class="teaser">
       <li>
+         <div class="teaser">
 
-      
 	 {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
-      	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>      </li>
+      	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+	     </div>      
 
-  
-        </div>      
+	</li>
+ 
 
         </ul>
     {% endfor %}
