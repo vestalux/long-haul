@@ -6,7 +6,7 @@ title: Your New Jekyll Site
 <div id="articles">
   <h1>Articles</h1>
   <ul class="posts noList">
-    {% for post in site.posts limit 1 %}
+    {% for post in site.posts limit:1 %}
       <li>
       	<span class="date">{{ post.date | date_to_string }}</span>
       	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
@@ -15,7 +15,7 @@ title: Your New Jekyll Site
     {% endfor %}
   </ul>
     <ul class="posts noList">
-    {% for post in site.posts limit 2 %}
+    {% for post in site.posts limit:2 %}
       <li>
       	<span class="date">{{ post.date | date_to_string }}</span>
       	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
