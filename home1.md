@@ -8,7 +8,7 @@ title: Your New Jekyll Site
 	float: left;
 	width: 33%;
 	box-sizing: border-box;
-	padding: 0 30px;}
+	padding: 0 5px;}
 
 .teaser:before{background:none;}
 }
