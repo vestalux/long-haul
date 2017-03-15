@@ -3,6 +3,13 @@ layout: default
 title: Your New Jekyll Site
 ---
 <style>
+ .teaser {
+    float: none;
+    position: static;
+    width: auto;
+
+
+@media only screen and min-device-width : 800px) {
 .teaser {
 	float: left;
 	width: 33%;
@@ -10,12 +17,7 @@ title: Your New Jekyll Site
 	padding: 0 30px;}
 
 .tesaer:before{background:none;}
-
-@media only screen and (max-device-width : 800px) {
-  .teaser {
-    float: none;
-    position: static;
-    width: auto;
+ 
   }
   
   </style>
