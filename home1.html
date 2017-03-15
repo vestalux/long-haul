@@ -5,7 +5,7 @@ title: HopBot
 
 <div class="home" id="home">
   <ul class="posts noList">
-    {% for post in paginator.posts limit: 1 %}
+    {% for post limit: 1 %}
       <li>
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <p class="description">{% if post.intro %}{{ post.intro | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
