@@ -35,6 +35,8 @@ li.teaser:before{background:none;}
       <li class="teaser">
     {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
       	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+	      	<span class="date">{{ post.date | date_to_string }}</span>
+
 	   </li>
      {% endfor %}
     </ul>
