@@ -15,6 +15,10 @@ li.teaser:before{background:none;}
   
   </style>
 <div id="articles">
+ <h1 class="pageTitle">Recent Stories</h1>
+ 
+ >Framrate captures the moments that wouldn't be enough for a story but without them we wouldn't see the big picture
+ 
  <ul class="posts noList">
  
     {% for post in site.framerates %}
