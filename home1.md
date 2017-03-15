@@ -6,10 +6,10 @@ title: Your New Jekyll Site
  .teaser {
     float: none;
     position: static;
-    width: auto;
+    width: auto;}
 
 
-@media only screen and min-width 800px) {
+@media only screen and min-width 800px{
 .teaser {
 	float: left;
 	width: 33%;
@@ -18,7 +18,7 @@ title: Your New Jekyll Site
 
 .tesaer:before{background:none;}
  
-  }
+}
   
   </style>
 
