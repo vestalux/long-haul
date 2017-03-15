@@ -42,11 +42,11 @@ li.teaser:before{background:none;}
  <blockquote>
 <h1>New Frames</h1>
  </blockquote>
- </div>
+ 
  <p>
  {% for post in site.framerates limit:1 %}
      
-    {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
+    {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt="" class="featuredImage"></a> {% endif %}
  {% endfor %}
-</p>
+</p></div>
   </div>
