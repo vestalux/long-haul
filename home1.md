@@ -44,7 +44,7 @@ li.teaser:before{background:none;}
  <ul class="posts noList">
  
     {% for post in site.framerates limit:1 %}
-      <li class="teaser">
+      <li>
     {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
     	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 	   </li>
