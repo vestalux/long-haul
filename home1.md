@@ -38,7 +38,7 @@ li.teaser:before{background:none;}
 	   </li>
      {% endfor %}
     </ul>
-  
+  </div>
 <h1 class="pageTitle">New Frames</h1>
 
  <ul class="posts noList">
@@ -50,4 +50,4 @@ li.teaser:before{background:none;}
 	   </li>
      {% endfor %}
     </ul>
-</div>
+
