@@ -3,10 +3,6 @@ layout: default
 title: Your New Jekyll Site
 ---
 <style>
-.teasers {
-	margin: 40px 0 0 0;
-}
-
 .teaser {
 	float: left;
 	width: 33%;
@@ -15,6 +11,7 @@ title: Your New Jekyll Site
 	height: 450px;
 }
 
+li.tesaer:before{background:none;}
 
 @media only screen and (max-device-width : 800px) {
   .teaser {
@@ -39,23 +36,16 @@ title: Your New Jekyll Site
     {% endfor %}
     </ul>
     
-  <div class="teasers">
+  
   <ul class="posts noList">
  
     {% for post in site.posts limit:3 offset:1 %}
-      <li>
-         <div class="teaser">
-
-	 {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
+      <li class="teaser">
+    {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
       	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-	     </div>      
-
-	</li>
- 
-
-        </ul>
-    {% endfor %}
- 
-  </div>
+	   </li>
+     {% endfor %}
+    </ul>
+  
 
 </div>
