@@ -38,9 +38,11 @@ li.teaser:before{background:none;}
 	   </li>
      {% endfor %}
     </ul>
-
-<h1 class="pageTitle">New Frames</h1>
-
+ <div class="post">
+ <blockquote>
+<h1>New Frames</h1>
+ </blockquote>
+ </div>
  <p>
  {% for post in site.framerates limit:1 %}
      
