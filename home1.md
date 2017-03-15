@@ -40,7 +40,7 @@ li.teaser:before{background:none;}
     </ul>
  <div class="post">
  <blockquote>
-<h1>New Frames</h1>
+<h3>Good times are made of great moments</h3>
  </blockquote>
  
  <p>
