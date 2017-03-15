@@ -19,7 +19,7 @@ li.teaser:before{background:none;}
  
     {% for post in site.framerates %}
       <li class="teaser">
-    {% if post.image %}<a class="post-link" href="{{ framerate.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: framerate.image }}" alt=""></a> {% endif %}
+    {% if post.image %}<a class="post-link" href="{{ framerate.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
 	   </li>
      {% endfor %}
     </ul>
