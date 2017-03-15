@@ -38,7 +38,7 @@ li.teaser:before{background:none;}
 	   </li>
      {% endfor %}
     </ul>
-  </div>
+
 <h1 class="pageTitle">New Frames</h1>
 
  <p>
@@ -47,4 +47,4 @@ li.teaser:before{background:none;}
     {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
  {% endfor %}
 </p>
-
+  </div>
