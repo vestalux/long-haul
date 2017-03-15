@@ -1,7 +1,9 @@
 ---
-title: Valami más
+title: test2
 layout: framerate
+date: '2014-06-11T00:00:00+02:00'
+image: "/20140424-IMG_0036-1.jpg"
 ---
-An Afghan biscuit is a traditional New Zealand biscuit made from flour, butter, cornflakes, sugar and cocoa powder, topped with chocolate icing and a half walnut. The recipe[1] has a high proportion of butter, and relatively low sugar, and no leavening (rising agent), giving it a soft, dense and rich texture, with crunchiness from the cornflakes, rather than from a high sugar content. The high butter content gives a soft melt-in-the-mouth texture, and the sweetness of the icing offsets the low sugar and the cocoa bitterness. The origin of the recipe and the derivation of the name are unknown, but the recipe has appeared in many editions of the influential New Zealand Edmonds Cookery Book.
+I try not to read the labels before writing a review, so I’m no way influenced by the marketing team. Didn’t really work this time I had a glimpse of the label and now I’m unsure whether I can really taste gooseberries or I’m just imagining it.  
 
-Source [Wikipedia](https://en.wikipedia.org/wiki/Afghan_biscuit)
+The Sandra is a well balanced beer, good carbonation, nice thick head, on the nose some malts, plum are quite noticeable. Tasewise As I mentioned I’d say gooseberry, redcurrant followed by a bit of roasted chestnut chocolate flavor. I can also feel a bit of floral aroma when I exhale but it’s masked by roastiness of the beer. If the alcohol content would be a bit lower I would call this sessionable.
