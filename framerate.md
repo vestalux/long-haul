@@ -14,7 +14,8 @@ li.teaser:before{background:none;}
 .image {width: 254px;height: 254px;background-size: cover;
    background-position: center center;}
 }
-  
+  .image {width: auto;height: auto;background-size: cover;
+   background-position: center center;}
   </style>
 <div id="articles">
 
