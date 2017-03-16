@@ -11,6 +11,7 @@ title: Framerate
 	padding: 0 5px;}
 
 li.teaser:before{background:none;}
+img.framerate{width: 254px;height: 254px; object-fit: cover;}
 }
   
   </style>
@@ -24,7 +25,7 @@ li.teaser:before{background:none;}
  
     {% for post in site.framerates %}
       <li class="teaser">
-    {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt="" style="width: 254px;height: 254px; object-fit: cover;"></a> {% endif %}
+    {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt="" class="framrate"></a> {% endif %}
     	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 	   </li>
      {% endfor %}
