@@ -20,7 +20,7 @@ li.teaser img {width: 254px;height: 254px;object-fit: cover;
 
  <h1 class="pageTitle">Framerate</h1>
  <div class="post">
- <blockquote>Framrate captures the moments that wouldn't be enough for a story but without them we wouldn't see the big picture</blockquote>
+ <blockquote>Framerate captures the moments that wouldn't be enough for a story but without them we wouldn't see the big picture</blockquote>
  </div>
  <ul class="posts noList">
  
