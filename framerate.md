@@ -11,10 +11,7 @@ title: Framerate
 	padding: 0 5px;}
 
 li.teaser:before{background:none;}
-li.teaser img {
-
-    width: 254px;
-    height: 254px;}
+li.teaser img {width: 254px;height: 254px; object-fit: cover;}
 }
   
   </style>
