@@ -1,7 +1,7 @@
 ---
 title: ver.2
 layout: framerate
-date: '2016-03-16T00:00:00+00:59'
+date: '2017-03-15T20:17:30+00:00'
 image: "/DSC02461.jpg"
 ---
 Brussels has no shortage of bars and pubs where one can enjoy some traditional Belgian beers. There's no need for any guides or maps to find a quiet place to enjoy a brew with locals.
