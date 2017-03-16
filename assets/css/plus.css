@@ -1,0 +1,3 @@
+img.cover, video.cover {
+    object-fit: cover;
+}
