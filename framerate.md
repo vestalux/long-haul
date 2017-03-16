@@ -11,7 +11,16 @@ title: Framerate
 	padding: 0 5px;}
 
 li.teaser:before{background:none;}
-li.teaser img {width: 254px;height: 254px; object-fit: cover;}
+li.teaser img {    z-index: 1;
+    display: block;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    left: 0;
+    width: 254px;
+    height: 254px;}
 }
   
   </style>
