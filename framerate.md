@@ -11,11 +11,10 @@ title: Framerate
 	padding: 0 5px;}
 
 li.teaser:before{background:none;}
-.image {width: 254px;height: 254px;background-size: cover;
-   background-position: center center;}
+li.teaser img {width: 254px;height: 254px;object-fit: cover;
+ }
 }
-  .image {width: auto;height: auto;background-size: cover;
-   background-position: center center;}
+
   </style>
 <div id="articles">
 
@@ -27,7 +26,7 @@ li.teaser:before{background:none;}
  
     {% for post in site.framerates reversed %}
       <li class="teaser">
-    {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><div class="image" style="background: url({{ '/uploads/' | prepend: site.baseurl | append: post.image }} );"></div></a> {% endif %}
+    {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src=" {{ '/uploads/' | prepend: site.baseurl | append: post.image }}"> </a> {% endif %}
     	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 	   </li>
      {% endfor %}
