@@ -89,4 +89,4 @@ They were the first brewery to release sours in Croatia that has raised some eye
 
 
 
-The Garden is definitely worth a visit if you’re in the area. Not only do they serve great beer, but there’s an excellent burger shack and occasionally the place turns into a music venue with DJs and the biggest disco ball of Central Europe.
+The Garden is definitely worth a visit if you’re in the area. Not only do they serve great beer, but there’s an excellent burger shack and occasionally the place turns into a music venue with DJs and probably the biggest disco ball of Central Europe. Surely the biggest in a brewery.
