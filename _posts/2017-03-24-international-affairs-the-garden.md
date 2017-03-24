@@ -6,17 +6,11 @@ intro: All started with watching the sun set over the Adriatic Sea in Zadar – 
   Colgan tells me as we sit in the taproom of his brewery.
 image: "/DSC03100.jpg"
 ---
-
-
-In his formal life, he was the studio manager for UB40 the successful reggae-pop band that produced dozens of UK Top Singles. But when Nick first came to Croatia to enjoy the sun and the spoils of coastal Dalmatia, he found a new calling. When a seaside bar came on the market during his holiday he took the chance and signed the lease. This is how 
-
-<a href="http://thegarden.hr/brewery/en">The Garden</a> came to be.
+In his formal life, he was the studio manager for UB40 the successful reggae-pop band that produced dozens of UK Top Singles. But when Nick first came to Croatia to enjoy the sun and the spoils of coastal Dalmatia, he found a new calling. When a seaside bar came on the market during his holiday he took the chance and signed the lease. This is how <a href="http://thegarden.hr/brewery/en">The Garden</a> came to be.
 
 ## The Festival
 
-Colgan has resided in Zadar for the last 12 years, where he was instrumental in organising the hugely successful 
-
-<a href="http://thegarden.hr/the-garden-festival">Garden Music Festival</a>
+Colgan has resided in Zadar for the last 12 years, where he was instrumental in organising the hugely successful <a href="http://thegarden.hr/the-garden-festival">Garden Music Festival</a>
 And everybody knows what festivalgoers do - especially on a mid-summer beach event – they drink a hell of a lot beer.
 <blockquote>“I am a fan of all crafts, especially beer”</blockquote>
 
@@ -88,9 +82,7 @@ It seems like the people are keen on trying tasty artisanal products after all a
 
 
 
-They were the first brewery to release sours in Croatia that has raised some eyebrows but overall had a great reception. As of today on Untappd one of their limited release sits at 
-
-<a href="https://untappd.com/beer/top_rated?country_id=35">#5 on the top beer list</a> of Croatian brews.
+They were the first brewery to release sours in Croatia that has raised some eyebrows but overall had a great reception. As of today on Untappd one of their limited release sits at <a href="https://untappd.com/beer/top_rated?country_id=35">#5 on the top beer list</a> of Croatian brews.
 
 ![](/uploads/DSC03065.jpg)
 
