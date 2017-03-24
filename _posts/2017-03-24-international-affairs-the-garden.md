@@ -15,15 +15,16 @@ And everybody knows what festivalgoers do - especially on a mid-summer beach eve
 <blockquote>“I am a fan of all crafts, especially beer”</blockquote>
 
 For years Nick and his partner David Plant was forced to sell one of the major Croatian beer brands at their events as nothing else was available in the country in that volume at the time. The partners often discussing this topic over a beer or two until Dave suggested they should make their own.
-<blockquote>“It's just hops, water and yeast!”</blockquote>
 
-Even Mesopotamians could make it with primitive tools more than two millennia ago, how hard can it be really? But even though they both had immense love for the quality brews neither of them had any knowledge about beer production.
 
 ![](/uploads/DSC03044.jpg)
 
 
-
 ## Time to brew
+
+Even Mesopotamians could make it with primitive tools more than two millennia ago, how hard can it be really? But even though they both had immense love for the quality brews neither of them had any knowledge about beer production.
+
+<blockquote>“It's just hops, water and yeast!”</blockquote>
 
 Cue Nick Calder-Scholes. In April 2016, the brewery’s business plan was coming along nicely. It was already settled that the location of the brewery will be in a warehouse in Zagreb, however the brewhouse was yet to be seen. Nick Calder-Scholes joined as head brewer and right away he had a great task, to kit out the whole brewery.
 
