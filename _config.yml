@@ -2,8 +2,8 @@ title: HopBot
 description: Decoding the beers of the Old Continent
 
 url: http://hopbot.eu
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "stories/page:num/"
+permalink: stories/:title/
 
 markdown: kramdown
 highlighter: rouge
