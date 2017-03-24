@@ -6,15 +6,12 @@ intro: All started with watching the sun set over the Adriatic Sea in Zadar – 
   Colgan tells me as we sit in the taproom of his brewery.
 image: "/DSC03100.jpg"
 ---
-
-
 In his formal life, he was the studio manager for UB40 the successful reggae-pop band that produced dozens of UK Top Singles. But when Nick first came to Croatia to enjoy the sun and the spoils of coastal Dalmatia, he found a new calling. When a seaside bar came on the market during his holiday he took the chance and signed the lease. This is how 
-<a href="http://thegarden.hr/brewery/en" style="font-size: 1rem; background-color: rgb(255, 255, 255);">The Garden</a>
-<span style="font-size: 1rem;"> came to be.</span>
+<a href="http://thegarden.hr/brewery/en">The Garden</a> came to be.
 
 Colgan has resided in Zadar for the last 12 years, where he was instrumental in organising the hugely successful 
-<a href="http://thegarden.hr/the-garden-festival" style="font-size: 1rem; background-color: rgb(255, 255, 255);">Garden Music Festival</a>
-<span style="font-size: 1rem;">. And everybody knows what festivalgoers do - especially on a mid-summer beach event – they drink a hell of a lot beer.</span>
+<a href="http://thegarden.hr/the-garden-festival">Garden Music Festival</a>
+And everybody knows what festivalgoers do - especially on a mid-summer beach event – they drink a hell of a lot beer.
 <blockquote>“I am a fan of all crafts, especially beer”</blockquote>
 
 For years Nick and his partner David Plant was forced to sell one of the major Croatian beer brands at their events as nothing else was available in the country in that volume at the time. The partners often discussing this topic over a beer or two until Dave suggested they should make their own.
@@ -72,8 +69,7 @@ It seems like the people are keen on trying tasty artisanal products after all a
 
 
 They were the first brewery to release sours in Croatia that has raised some eyebrows but overall had a great reception. As of today on Untappd one of their limited release sits at 
-<a href="https://untappd.com/beer/top_rated?country_id=35" style="font-size: 1rem; background-color: rgb(255, 255, 255);">#5 on the top beer list</a>
-<span style="font-size: 1rem;"> of Croatian brews.</span>
+<a href="https://untappd.com/beer/top_rated?country_id=35">#5 on the top beer list</a> of Croatian brews.
 
 ![](/uploads/DSC03065.jpg)
 
