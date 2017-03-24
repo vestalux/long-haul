@@ -6,7 +6,7 @@ intro: All started with watching the sun set over the Adriatic Sea in Zadar – 
   Colgan tells me as we sit in the taproom of his brewery.
 image: "/DSC03100.jpg"
 ---
-In his formal life, he was the studio manager for UB40 the successful reggae-pop band that produced dozens of UK Top Singles. But when Nick first came to Croatia to enjoy the sun and the spoils of coastal Dalmatia, he found a new calling. When a seaside bar came on the market during his holiday he took the chance and signed the lease. This is how <a href="http://thegarden.hr/brewery/en">The Garden</a> came to be.
+In his formal life, he was the studio manager for <a href="https://www.youtube.com/watch?v=zXt56MB-3vc">UB40</a> the successful reggae-pop band that produced dozens of UK Top Singles. But when Nick first came to Croatia to enjoy the sun and the spoils of coastal Dalmatia, he found a new calling. When a seaside bar came on the market during his holiday he took the chance and signed the lease. This is how <a href="http://thegarden.hr/brewery/en">The Garden</a> came to be.
 
 ## The Festival
 
