@@ -46,9 +46,7 @@ This year we plan to release 3 to 4 new recipes as we have been a bit stagnant r
 
 ### I had the pleasure to taste Mursasalski Red and I loved the complex flavor profile. Is this the craziest recipe you've ever came up with?
 
-I love this recipe. It's my baby. It's not the craziest recipe I have come up with but it ***
-
-<u>IS</u>*** the craziest recipe that against all odds works so well!
+I love this recipe. It's my baby. It's not the craziest recipe I have come up with but it <u>IS</u> the craziest recipe that against all odds works so well!
 
 ### Beer brewing is inherently an international affair. The best ingredients frequently travel across half the globe. Do you use any local ingredients?
 
