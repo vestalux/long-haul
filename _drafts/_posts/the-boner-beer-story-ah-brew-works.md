@@ -5,7 +5,6 @@ date: '2017-03-29T19:29:25+00:00'
 intro: Major television channels would lead you to believe that Bulgaria is all about
   cheap package holidays and even cheaper lager on Sunny Beach. Oh, boy are they wrong.
 image: "/rory.jpg"
-published: false
 ---
 
 
