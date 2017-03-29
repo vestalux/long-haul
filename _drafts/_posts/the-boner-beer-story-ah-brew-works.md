@@ -4,6 +4,7 @@ layout: post
 date: '2017-03-29T19:29:25+00:00'
 intro: Major television channels would lead you to believe that Bulgaria is all about
   cheap package holidays and even cheaper lager on Sunny Beach. Oh, boy are they wrong.
+image: "/rory.jpg"
 ---
 
 
@@ -23,7 +24,7 @@ Compared to when we first began - no craft, no macro, no nothing – we reached 
 
 ### Do you think Bulgaria is going through a craft beer revolution? What does it look like from the inside?
 
-Bulgaria is definitely a newcomer to the craft beer revolution, which we are proud to have ignited. As in all revolutions those who are true to the cause will shine and those who are just counting their coins and exploiting the public will fall away into the dust from which they came. They have no idea of the strength and passion of those who have dedicated everything.
+Bulgaria is definitely a newcomer to the craft beer revolution, which we are proud to have ignited. As in all revolutions those who are true to the cause will shine and those who are just counting their coins and exploiting the public will fall away into the dust from which they came. They have no idea of the strength and passion of those who have dedicated everything.![](/uploads/ah.gif)
 
 We are seeing an influx of producers both brick and mortar as well as gypsy brewers - like ourselves. We have had many discussions with colleagues in Serbia, for example, and this influx is not really the best thing in our opinion.  It's like having 10 choices of the same soda. It hurts everybody. The market is still young and very small so there is not much room for massive competition.
 
@@ -34,14 +35,13 @@ Before people dive into brewing just because they like beer, first they should e
 Our initial idea behind our recipes was simple – Be different. We want to take typical recipes, typical styles and add to them crazy, new stuff. We never want to build our company on typical recipes. Why brew an IPA when there are a 1000 fantastic IPAs out there already? Nothing new, nothing interesting for us there. So, we want to make weird shit and good shit at the same time!
 <blockquote>We want to make weird shit and good shit at the same time!</blockquote>
 
-The idea of our ***
-<u>Boner Beer</u>*** or Mursasalski Red or Number 7 was to use local ingredients and to use special ingredients - never before used in this way. Mursalski tea is something the Bulgarians are proud to have and we wanted to channel their pride and show them a new way to enjoy their favourite herb. It took us a while to perfect the recipe because the ingredients have never been used before and the process that I wanted to use them was also a new one... but after a couple failures we finally balanced our, now, best known beer.
+The idea of our ***Boner Beer*** or Mursasalski Red or Number 7 was to use local ingredients and to use special ingredients - never before used in this way. Mursalski tea is something the Bulgarians are proud to have and we wanted to channel their pride and show them a new way to enjoy their favourite herb. It took us a while to perfect the recipe because the ingredients have never been used before and the process that I wanted to use them was also a new one... but after a couple failures we finally balanced our, now, best known beer.
 
 Our other core beer was more of an economical choice and basically a base beer that we could always alter if we wanted - Bulgarian Pale Ale or Number 3. A basic pale ale that people could drink easily without pretence. A sort of stepping stone to the strange and provocative world of craft.
 
 ### Are there any new beers in the pipeline?
 
-This year we plan to release 3 to 4 new recipes as we have been a bit stagnant recently, experimenting and never quite satisfied with what we came up with. We are happy to say we have finally came up with a few very solid recipes and new packaging which we are very excited to release this year.
+This year we plan to release 3 to 4 new recipes as we have been a bit stagnant recently, experimenting and never quite satisfied with what we came up with. We are happy to say we have finally came up with a few very solid recipes and new packaging which we are very excited to release this year.![](/uploads/ah.png)
 
 ### I had the pleasure to taste Mursasalski Red and I loved the complex flavor profile. Is this the craziest recipe you've ever came up with?
 
@@ -77,3 +77,8 @@ Of course, our favourite way is still just to notice a cool place and go in to t
 ### Any plans for the future?
 
 We plan to focus on the brand and make it as strong as possible while also releasing a few new interesting recipes for beers. We are also planning to expand our product range by including *more than just beer*...
+
+
+
+
+
