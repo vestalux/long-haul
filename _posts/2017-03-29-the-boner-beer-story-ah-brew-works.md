@@ -8,7 +8,8 @@ image: "/rory.jpg"
 ---
 
 
-For starters, here’s 
+For starters, here’s
+
 <a href="http://yeahyeah.eu">Ah! Brew Works</a>. A gypsy brewery operation from the Bulgarian capitol Sofia. The city’s backdrop is the exact opposite of a beach holiday. It’s a mixture of brutalist concrete blocks and beautiful historical architecture. It’s intense and distracting so if one would like to market a beer it needs to be interesting.
 
 Ah! managed to do just that. They brewed one of the most potent beers I’ve ever tasted. It’s a beer brewed with mint and mursalski tea giving it a unique sweet herb flavor complemented by the bitterness of the hops. Mursalski tea is an herb long used by Rhodopean people, which are famous for their longevity and viability. The herb is also known as **“Bulgarian Viagra”**, hence the nickname for Ah! no7 - Boner Beer.
@@ -24,7 +25,9 @@ Compared to when we first began - no craft, no macro, no nothing – we reached 
 
 ### Do you think Bulgaria is going through a craft beer revolution? What does it look like from the inside?
 
-Bulgaria is definitely a newcomer to the craft beer revolution, which we are proud to have ignited. As in all revolutions those who are true to the cause will shine and those who are just counting their coins and exploiting the public will fall away into the dust from which they came. They have no idea of the strength and passion of those who have dedicated everything.![](/uploads/ah.gif)
+Bulgaria is definitely a newcomer to the craft beer revolution, which we are proud to have ignited. As in all revolutions those who are true to the cause will shine and those who are just counting their coins and exploiting the public will fall away into the dust from which they came. They have no idea of the strength and passion of those who have dedicated everything.
+
+![](/uploads/ah.gif)
 
 We are seeing an influx of producers both brick and mortar as well as gypsy brewers - like ourselves. We have had many discussions with colleagues in Serbia, for example, and this influx is not really the best thing in our opinion.  It's like having 10 choices of the same soda. It hurts everybody. The market is still young and very small so there is not much room for massive competition.
 
@@ -41,11 +44,14 @@ Our other core beer was more of an economical choice and basically a base beer t
 
 ### Are there any new beers in the pipeline?
 
-This year we plan to release 3 to 4 new recipes as we have been a bit stagnant recently, experimenting and never quite satisfied with what we came up with. We are happy to say we have finally came up with a few very solid recipes and new packaging which we are very excited to release this year.![](/uploads/ah.png)
+This year we plan to release 3 to 4 new recipes as we have been a bit stagnant recently, experimenting and never quite satisfied with what we came up with. We are happy to say we have finally came up with a few very solid recipes and new packaging which we are very excited to release this year.
+
+![](/uploads/ah.png)
 
 ### I had the pleasure to taste Mursasalski Red and I loved the complex flavor profile. Is this the craziest recipe you've ever came up with?
 
 I love this recipe. It's my baby. It's not the craziest recipe I have come up with but it ***
+
 <u>IS</u>*** the craziest recipe that against all odds works so well!
 
 ### Beer brewing is inherently an international affair. The best ingredients frequently travel across half the globe. Do you use any local ingredients?
@@ -77,8 +83,3 @@ Of course, our favourite way is still just to notice a cool place and go in to t
 ### Any plans for the future?
 
 We plan to focus on the brand and make it as strong as possible while also releasing a few new interesting recipes for beers. We are also planning to expand our product range by including *more than just beer*...
-
-
-
-
-
