@@ -6,11 +6,7 @@ intro: Major television channels would lead you to believe that Bulgaria is all 
   cheap package holidays and even cheaper lager on Sunny Beach. Oh, boy are they wrong.
 image: "/rory.jpg"
 ---
-
-
-For starters, here’s
-
-<a href="http://yeahyeah.eu">Ah! Brew Works</a>. A gypsy brewery operation from the Bulgarian capitol Sofia. The city’s backdrop is the exact opposite of a beach holiday. It’s a mixture of brutalist concrete blocks and beautiful historical architecture. It’s intense and distracting so if one would like to market a beer it needs to be interesting.
+For starters, here’s <a href="http://yeahyeah.eu">Ah! Brew Works</a>. A gypsy brewery operation from the Bulgarian capitol Sofia. The city’s backdrop is the exact opposite of a beach holiday. It’s a mixture of brutalist concrete blocks and beautiful historical architecture. It’s intense and distracting so if one would like to market a beer it needs to be interesting.
 
 Ah! managed to do just that. They brewed one of the most potent beers I’ve ever tasted. It’s a beer brewed with mint and mursalski tea giving it a unique sweet herb flavor complemented by the bitterness of the hops. Mursalski tea is an herb long used by Rhodopean people, which are famous for their longevity and viability. The herb is also known as **“Bulgarian Viagra”**, hence the nickname for Ah! no7 - Boner Beer.
 
