@@ -18,7 +18,9 @@ As is the case with many breweries we come from a homebrewing background. The ho
 The main problem is usually the lack of funds to open a proper brewery. We started as gipsy brewers in the Kahli brewing facility in Varaždin as we didn’t have the money to start our own operation. This was three years ago, in a time when no one in Croatia knew what craft beer is. They didn’t even know what an ale is. I presume that was the case in many countries of the region as well because we’re all under a big influence of German and Czech brewing schools. That means lagers, lagers and lagers.
 <blockquote>Lagers, lagers and lagers</blockquote>
 
-Back when we started, you could only find euro lagers in Croatia. We were pissed off by the lack of choice. As big fans of British and American brewing, we wanted to make those kind of beers rather than bland lagers. Now producing American style ales is our core business. Our year round beers are the American Pale Ale and C4 but we also do seasonal brews - the Fireball red ale and Brale American brown ale.![](/uploads/marko.gif)
+Back when we started, you could only find euro lagers in Croatia. We were pissed off by the lack of choice. As big fans of British and American brewing, we wanted to make those kind of beers rather than bland lagers. Now producing American style ales is our core business. Our year round beers are the American Pale Ale and C4 but we also do seasonal brews - the Fireball red ale and Brale American brown ale.
+
+![](/uploads/marko.gif)
 
 **We are true hop-heads.** When we make new recipes other than American style brews we end up adding more and more American hops. It’s fair to say that we are crazy about American hops.
 
