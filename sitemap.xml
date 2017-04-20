@@ -34,6 +34,5 @@ layout: null
         <changefreq>{{ page.sitemap.changefreq }}</changefreq>
         <priority>{{ page.sitemap.priority }}</priority>
        </url>
-    {% endif %}
   {% endfor %}
 </urlset>
