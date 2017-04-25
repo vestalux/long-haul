@@ -7,8 +7,6 @@ intro: Somewhere in the outskirts of Budapest there’s a factory that looks jus
   resides.
 image: "/soproni ipa8-1.jpg"
 ---
-
-
 It was a Tuesday morning when I managed to visit the Mad Scientist brewery in the X. district of Budapest. [The location](http://hopbot.eu/framerate/ver-6/) is inherently intertwined with local brewing history. The M47 business park that houses the brewery used to be a huge brewery of Fővárosi Serfőző built in 1912. The site is truly astonishing. The bright red brickwork, stone beer casks overlooking the entrance and the Zsolnay tiles make this place one of the most astonishing industrial heritage sites in the city.
 
 
@@ -134,11 +132,7 @@ This is a longer and more expensive process, but it's all worth it because the p
 We give away a case of beer to the person who adopts a dog from the shelter operated by the foundation. We wanted to do such actions from the very beginning but there were no funds to do so as start-up funds were tight.
 
 
-<div id="fb-root"></div>
-<script type="null">(function(d, s, id) {<br>  var js, fjs = d.getElementsByTagName(s)[0];<br>  if (d.getElementById(id)) return;<br>  js = d.createElement(s); js.id = id;<br>  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=118822154802835";<br>  fjs.parentNode.insertBefore(js, fjs);<br>}(document, 'script', 'facebook-jssdk'));</script>
-
-
-<div class="fb-video" data-href="https://www.facebook.com/madscientistbeer/videos/2250829878476461/" data-width="500" data-show-text="false"></div>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmadscientistbeer%2Fvideos%2F2250829878476461%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 
 After a while we participated in many competitions and realised it is probably not for us. Winning a gold in a competition is nice and we’ve been there, but it is not relevant. The judges we must convince are the customers. So, we took the money that we would’ve spent on entry fees and started to participate in programs like this. It was totally worth it!
