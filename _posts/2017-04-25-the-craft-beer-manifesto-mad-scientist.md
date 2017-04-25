@@ -5,7 +5,7 @@ date: '2017-04-20T16:53:35+00:00'
 intro: Somewhere in the outskirts of Budapest there’s a factory that looks just like
   a residence of a villain in a steam-punk graphic novel. This is where the Mad Scientist
   resides.
-image: "/uploads/soproni ipa8.jpg"
+image: "/soproni ipa8-1.jpg"
 ---
 
 
