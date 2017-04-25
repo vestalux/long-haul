@@ -5,8 +5,8 @@
     <description>Decoding the beers of the Old Continent</description>
     <link>http://hopbot.eu/</link>
     <atom:link href="http://hopbot.eu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Apr 2017 15:10:35 +0000</pubDate>
-    <lastBuildDate>Tue, 25 Apr 2017 15:10:35 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Apr 2017 15:13:44 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Apr 2017 15:13:44 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       
@@ -86,10 +86,7 @@
 
 &lt;p&gt;We give away a case of beer to the person who adopts a dog from the shelter operated by the foundation. We wanted to do such actions from the very beginning but there were no funds to do so as start-up funds were tight.&lt;/p&gt;
 
-&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
-&lt;script type=&quot;null&quot;&gt;(function(d, s, id) {&lt;br&gt;  var js, fjs = d.getElementsByTagName(s)[0];&lt;br&gt;  if (d.getElementById(id)) return;&lt;br&gt;  js = d.createElement(s); js.id = id;&lt;br&gt;  js.src = &quot;//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.9&amp;appId=118822154802835&quot;;&lt;br&gt;  fjs.parentNode.insertBefore(js, fjs);&lt;br&gt;}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
-
-&lt;div class=&quot;fb-video&quot; data-href=&quot;https://www.facebook.com/madscientistbeer/videos/2250829878476461/&quot; data-width=&quot;500&quot; data-show-text=&quot;false&quot;&gt;&lt;/div&gt;
+&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmadscientistbeer%2Fvideos%2F2250829878476461%2F&amp;amp;show_text=0&amp;amp;width=560&quot; width=&quot;560&quot; height=&quot;315&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;After a while we participated in many competitions and realised it is probably not for us. Winning a gold in a competition is nice and we’ve been there, but it is not relevant. The judges we must convince are the customers. So, we took the money that we would’ve spent on entry fees and started to participate in programs like this. It was totally worth it!&lt;/p&gt;
 </description>
