@@ -39,3 +39,6 @@ collections:
   framerates:
     output: true
     permalink: framerate/:title/
+  events:
+    output: true
+    permalink: framerate/:title/
