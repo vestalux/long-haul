@@ -9,7 +9,7 @@ image: "/soproni ipa8-1.jpg"
 ---
 
 
-It was a Tuesday morning when I managed to visit the Mad Scientist brewery in the X. district of Budapest. The location is inherently intertwined with local brewing history. The M47 business park that houses the brewery used to be a huge brewery of Fővárosi Serfőző built in 1912. The site is truly astonishing. The bright red brickwork, stone beer casks overlooking the entrance and the Zsolnay tiles make this place one of the most astonishing industrial heritage sites in the city.
+It was a Tuesday morning when I managed to visit the Mad Scientist brewery in the X. district of Budapest. [The location](http://hopbot.eu/framerate/ver-6/) is inherently intertwined with local brewing history. The M47 business park that houses the brewery used to be a huge brewery of Fővárosi Serfőző built in 1912. The site is truly astonishing. The bright red brickwork, stone beer casks overlooking the entrance and the Zsolnay tiles make this place one of the most astonishing industrial heritage sites in the city.
 
 
 ![](/uploads/soproni%20ipa10.jpg)
@@ -48,7 +48,10 @@ Now we are probably at the point where there’s more beer available than demand
 
 I have a background in professional poker and I find this experience invaluable. There’s many analogies between the two worlds. If I look at our situation, we started the brewery when there’s a lot of competition and it takes more effort to stay afloat. The breweries that started in a bigger demand period before us are like a cardplayer who had good luck in the beginning of their career and won big. It’s dangerous because it was down to pure luck and he has no idea what he is capable of.
 
+
 ![](/uploads/soproni%20ipa6.jpg)
+
+
 
 
 This leads to an inflated ego or in the case of a brewery they will stagnate and stop responding to the changing market. That’s what’s happening now some breweries won’t make the cut and eventually fail.
@@ -116,7 +119,10 @@ Brewing beer is like having children. You want your little princess to be smart 
 
 [András Baranyai](http://www.andrasbaranyai.com/) creates all the illustrations we use on our beers. He usually illustrates book covers and designs limited art prints. I was expecting this to be a difficult process since I was not sending over a brief, but just telling Andris the concept and my philosophy that he would interpret in his own artistic style.
 
+
 ![](/uploads/soproni%20ipa3.jpg)
+
+
 
 
 This is a longer and more expensive process, but it's all worth it because the product will have soul. People are looking for unique products with personality they can relate to, that’s why people are ditching mass produced goods lately. Our brand promises that. If they buy our beer they will have an amazing experience and the label is the visual representation of this. The design is an integral part of the product as most of the time this is the first interaction the consumers have with the brand.
