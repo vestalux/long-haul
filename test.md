@@ -1,3 +1,3 @@
 
-{% capture now-unix %}{% endcapture %}
-<p>{{ now-unix }}</p>
+
+<p>{{ 'now' | date: "%Y %h" }}</p>
