@@ -1,9 +1,27 @@
 ---
 layout: default
-title: Events
+title: HopBot - Stories
 ---
 
-<div id="articles">
+<div class="home" id="home">
+  <h1 class="pageTitle">Upcoming Events</h1>
+  <ul class="posts noList">
+  
+  
+  
+   
+    
+        
+      
+        <p class="description">{% if post.intro %}{{ post.intro | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
+      {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
+  
+
+
+
+
+
+
 
     {% assign events = site.events | sort: 'event-start-date'%}
 
@@ -28,32 +46,22 @@ title: Events
     {% if now-unix <= event-time %}
 
       
-
+  <li>
+  <span class="date">{{ event.event-start-date | date: '%B %d, %Y' }}{% if event.event-end-date %} &#8211; {{ event.event-end-date | date: '%B %d, %Y' }}{% endif %}</span>
+    <h3><a class="post-link" href="{{ event.url | prepend: site.baseurl }}">{{ event.title }}</a></h3>
+    {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
           <a href="{{ event.url }}">{{ event.title }}</a>     
-          {{ event.location-text }}
-          {{ event.event-start-date | date: "%a %-d %b, %Y" }}{% if event.event-end-date %} &#8211; {{ event.event-end-date | date: "%a %-d %b, %Y" }}{% endif %}
-           {{ event.event-start-time }}
-
+          <p>{{ event.location-text }}</p>
+          <p>{{ event.event-start-time }}</p>
+          <p>{{ event.content }}</p>
+  </li>
     {% endif %}
 
     {% endfor %}
 
-
-
-
-
-
-
-
-{% for event in site.events %}
-  <ul class="posts noList">
-   <li>
-   <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
-   {{ event.content | strip_html | strip_newlines | truncate: 120 }}
-     </li>
   </ul>
-{% endfor %}
 
 </div>
+
 
 
