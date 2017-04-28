@@ -36,7 +36,7 @@ title: HopBot - Events
     {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
          <p>   
            Date: {{ event.event-start-date | date: '%B %d, %Y' }}{% if event.event-end-date %} &#8211; {{ event.event-end-date | date: '%B %d, %Y' }}{% endif %}<br>
-           Doors open: {{ event.event-start-time }}<br>
+           Time: {{ event.event-start-time }}<br>
         Location: {{ event.location-text }}
            </p>
           
