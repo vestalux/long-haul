@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Podcast
+title: Events
 ---
 
 <div id="articles">
