@@ -42,4 +42,4 @@ collections:
     permalink: framerate/:title/
   events:
     output: true
-    permalink: framerate/:title/
+    permalink: events/:title/
