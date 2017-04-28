@@ -1,5 +1,6 @@
 title: HopBot
 description: Decoding the beers of the Old Continent
+timezone: Europe/Budapest
 
 url: http://hopbot.eu
 paginate_path: "stories/page:num/"
