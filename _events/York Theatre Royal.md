@@ -11,6 +11,7 @@ event-ticket-price: 8 - licensed bar available and ice creams available during i
 event-image-small: featured/featured-presents-railway-children.jpg
 event-category: presents
 breadcrumb: y
+layout: event
 ---
 
 Roberta, Phyllis and Peter, three sheltered siblings, suffer a huge upheaval when their father, who works for the Foreign Office, is falsely imprisoned.
