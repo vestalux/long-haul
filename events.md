@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HopBot - Stories
+title: HopBot - Events
 ---
 
 <div class="home" id="home">
@@ -35,9 +35,9 @@ title: HopBot - Stories
     <h3><a class="post-link" href="{{ event.url | prepend: site.baseurl }}">{{ event.title }}</a></h3>
     {% if post.image %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ '/uploads/' | prepend: site.baseurl | append: post.image }}" alt=""></a> {% endif %}
            
-        <p>{{ event.location-text }}</p>
-          <p>{{ event.event-start-time }}</p>
-          <p>{{ event.content }}</p>
+        <span class="date">{{ event.location-text }}</span>
+           <span class="date">{{ event.event-start-time }}</span>
+          
   </li>
     {% endif %}
 
